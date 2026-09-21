@@ -30,7 +30,7 @@ export const leyes = [
     pantalla: 'Inicio de sesión',
     captura: '02-login-tras-espanol.png',
     explicacion:
-      'En cualquier sitio, elegir "Español" traduce la pantalla. Acá se hace clic y el login sigue en inglés ("Log On", "Add New User"); solo cambia "Pay ticket" por "Pay notice". El selector no cumple lo que la persona espera de un selector de idioma.',
+      'En cualquier sitio, elegir "Español" traduce la pantalla. Acá se hace clic y el login sigue en inglés ("Log On", "Add New User"); lo único que cambia es la etiqueta de un botón ("Pay notice" pasa a decir "Pay ticket"). El selector no cumple lo que la persona espera de un selector de idioma.',
   },
   {
     id: 'fitts',
@@ -52,7 +52,7 @@ export const leyes = [
     pantalla: 'Pago de infracciones · Ciudad',
     captura: '04-denuncias-selector-ciudad.png',
     explicacion:
-      'El selector "Ciudad" despliega casi 100 opciones de Canadá, México, EE.UU. y Honduras, sin buscador ni agrupación por país, e incluye entradas marcadas "(inactive)". Elegir la propia ciudad obliga a recorrer toda la lista.',
+      'El selector "Ciudad" despliega 96 opciones de Canadá, México, EE.UU. y Honduras, sin buscador ni agrupación por país, e incluye entradas marcadas "(inactive)". Elegir la propia ciudad obliga a recorrer toda la lista.',
   },
   {
     id: 'miller',
